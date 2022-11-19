@@ -1,0 +1,6 @@
+{
+  "NearblocksSettings": {
+    "ApiBaseUrl": "https://api2.nearblocks.io/v1/graphql",
+    "RestApiBaseUrl": "https://nearblocks.io"
+  }
+}

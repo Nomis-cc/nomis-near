@@ -1,0 +1,7 @@
+{
+  "HapiExplorerSettings": {
+    "ApiBaseUrl": "https://explorer-api.hapi.one/",
+    "BlockchainProviderUrl": "https://eth-mainnet.alchemyapi.io/v2/yindO_Z3YZ0ncbtpJmNG7WQfHO2RPcF4",
+    "APIEnabled": true
+  }
+}
